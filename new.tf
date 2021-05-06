@@ -1,0 +1,4 @@
+null_resource "test" {
+}
+
+
